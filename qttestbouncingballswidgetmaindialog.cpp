@@ -1,6 +1,6 @@
-#include "qttooltestbouncingballswidgetmaindialog.h"
+#include "qttestbouncingballswidgetmaindialog.h"
 #include "qtbouncingballswidget.h"
-#include "ui_qttooltestbouncingballswidgetmaindialog.h"
+#include "ui_qttestbouncingballswidgetmaindialog.h"
 
 QtToolTestBouncingBallsWidgetMainDialog::QtToolTestBouncingBallsWidgetMainDialog(QWidget *parent) :
     QtHideAndShowDialog(parent),
